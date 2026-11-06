@@ -1,7 +1,7 @@
 {
   "name": "x3-bet.bet",
   "site_name": "X3Bet Casino: Play & Win €1,200 + 250 FS",
-  "html_head": "<link rel=\"canonical\" href=\"https://lilucasino.net/\">\n<meta property=\"og:locale\" content=\"en\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Lilu Casino Official | Slots, Live Tables & Banking\">\n<meta property=\"og:description\" content=\"Join Lilu Casino today! Play 1,700+ premium slots & live tables. Claim up to €5,000 + 500 Free Spins with instant € payouts. Sign up and win big now!\">\n<meta property=\"og:url\" content=\"https://lilucasino.net/\">\n<meta property=\"og:site_name\" content= \"Lilu Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"Lilu Casino\">\n<meta name=\"twitter:description\" content=\"Join Lilu Casino today! Play 1,700+ premium slots & live tables. Claim up to €5,000 + 500 Free Spins with instant € payouts. Sign up and win big now!\">",
+  "html_head": "<link rel=\"canonical\" href=\"https://x3-bet.bet/\">\n<meta property=\"og:locale\" content=\"en\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"X3Bet Casino: Play & Win €1,200 + 250 FS\">\n<meta property=\"og:description\" content=\"Join X3Bet Casino & Sport today! Claim up to €1,200 + 250 Free Spins on your first deposit. Enjoy 5,000+ top slots, live casino tables, competitive sports odds, and instant payouts 24/7.\">\n<meta property=\"og:url\" content=\"https://x3-bet.bet/\">\n<meta property=\"og:site_name\" content= \"X3Bet Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"X3Bet Casino: Play & Win €1,200 + 250 FS\">\n<meta name=\"twitter:description\" content=\"Join X3Bet Casino & Sport today! Claim up to €1,200 + 250 Free Spins on your first deposit. Enjoy 5,000+ top slots, live casino tables, competitive sports odds, and instant payouts 24/7.\">",
   "url": "x3-bet.bet",
   "template": "tupchiy",
   "language_code": "en",
@@ -77,14 +77,14 @@
   "home_name": "X3Bet Casino",
   "subdomains": null,
   "accent_color": "#d4af37",
-  "main_background": "#0f1013",
-  "secondary_background": "#292933",
-  "button_background": "#fdb410",
+  "main_background": "#050c18",
+  "secondary_background": "#050c18",
+  "button_background": "#f94709",
   "button_text_color": "#FFFFFF",
   "text_color": "#FFFFFF",
   "color_highlight_text": "#FFFFFF",
   "color_main_btn_text": "#FFFFFF",
-  "cta_background": "#8b5cf6",
+  "cta_background": "#f94709",
   "logo": {
     "url": "/uploads/x3bet-logo.webp"
   },
@@ -97,19 +97,13 @@
   "header_menu": [
     {
       "link": "/play/",
-      "label": "Bonuses",
+      "label": "Bonusen",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Casino Games",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
-      "label": "Live Casino",
+      "label": "Sports",
       "submenu": [],
       "openInNewTab": false
     },
@@ -148,6 +142,12 @@
     {
       "link": "/play/",
       "label": "Cookies Policy",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Terms and Conditions",
       "submenu": [],
       "openInNewTab": false
     }
@@ -239,8 +239,8 @@
       "question": "Is X3Bet Casino a licensed online gaming platform?"
     }
   ],
-  "_generated_at": "2026-11-06T13:59:49.497Z",
+  "_generated_at": "2026-11-06T14:07:47.903Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-06T13:59:54.624Z",
-  "_deploy_trigger": "owpbl"
+  "_last_deploy": "2026-11-06T14:07:48.566Z",
+  "_deploy_trigger": "o9278"
 }
