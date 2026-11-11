@@ -92,7 +92,7 @@
     "url": "/uploads/x3bet-logo.webp"
   },
   "main_background_img": {
-    "url": "/uploads/x3bet-casinos.webp"
+    "url": "/uploads/x3bet-casinoo.webp"
   },
   "header_menu": [
     {
@@ -245,8 +245,8 @@
       "question": "Is X3Bet Casino a licensed online gaming platform?"
     }
   ],
-  "_generated_at": "2026-11-11T09:33:21.853Z",
+  "_generated_at": "2026-11-11T09:44:28.238Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-11T09:33:22.841Z",
-  "_deploy_trigger": "p64njd"
+  "_last_deploy": "2026-11-11T09:44:28.996Z",
+  "_deploy_trigger": "y9ly6m"
 }
