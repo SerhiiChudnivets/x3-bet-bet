@@ -1,6 +1,6 @@
 {
   "name": "x3-bet.bet",
-  "site_name": "X3Bet Casino: Play & Win €1,200 + 250 FS",
+  "site_name": "X3Bet Casino: Top Slots, Live Casino & Welcome Bonus €1,200",
   "html_head": "<link rel=\"canonical\" href=\"https://x3-bet.bet/\">\n<meta property=\"og:locale\" content=\"en\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"X3Bet Casino: Play & Win €1,200 + 250 FS\">\n<meta property=\"og:description\" content=\"Join X3Bet Casino & Sport today! Claim up to €1,200 + 250 Free Spins on your first deposit. Enjoy 5,000+ top slots, live casino tables, competitive sports odds, and instant payouts 24/7.\">\n<meta property=\"og:url\" content=\"https://x3-bet.bet/\">\n<meta property=\"og:site_name\" content= \"X3Bet Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"X3Bet Casino: Play & Win €1,200 + 250 FS\">\n<meta name=\"twitter:description\" content=\"Join X3Bet Casino & Sport today! Claim up to €1,200 + 250 Free Spins on your first deposit. Enjoy 5,000+ top slots, live casino tables, competitive sports odds, and instant payouts 24/7.\">",
   "url": "x3-bet.bet",
   "template": "tupchiy",
@@ -245,8 +245,8 @@
       "question": "Is X3Bet Casino a licensed online gaming platform?"
     }
   ],
-  "_generated_at": "2026-11-11T10:07:11.063Z",
+  "_generated_at": "2026-11-12T13:49:08.020Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-11T10:07:11.764Z",
-  "_deploy_trigger": "u4mjxj"
+  "_last_deploy": "2026-11-12T13:49:08.842Z",
+  "_deploy_trigger": "93z30e"
 }
